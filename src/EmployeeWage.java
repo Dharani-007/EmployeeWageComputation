@@ -38,4 +38,5 @@ public class EmployeeWage {
         System.out.println("Welcome to Employee Wage Computation Program on Master Branch");
         wageComputation();
     }
+
 }
